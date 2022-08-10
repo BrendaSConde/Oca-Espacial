@@ -1,0 +1,14 @@
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\bin\Release\netcoreapp3.1\Parcial_1.exe
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\bin\Release\netcoreapp3.1\Parcial_1.deps.json
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\bin\Release\netcoreapp3.1\Parcial_1.runtimeconfig.json
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\bin\Release\netcoreapp3.1\Parcial_1.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\bin\Release\netcoreapp3.1\Parcial_1.dll
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\bin\Release\netcoreapp3.1\Parcial_1.pdb
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.dll
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.pdb
+C:\Users\Administrador\Desktop\istea clases\est\parcial\Parcial_1\obj\Release\netcoreapp3.1\Parcial_1.genruntimeconfig.cache
